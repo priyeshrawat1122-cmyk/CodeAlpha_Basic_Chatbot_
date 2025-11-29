@@ -1,0 +1,16 @@
+CodeAlpha Task 4: Basic Chatbot
+
+This project is a simple rule-based chatbot built using Python.
+The chatbot interacts with users through the console and responds
+to basic inputs such as "hello", "how are you", and "bye" with
+predefined replies.
+
+The main goal of this project is to demonstrate the use of 
+if-elif conditions, loops, and functions for creating an 
+interactive conversation system.
+
+Key Concepts Used:
+- if-elif statements
+- functions
+- loops
+- input/output handling
